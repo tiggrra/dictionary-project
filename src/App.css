@@ -4,3 +4,8 @@
   margin: 0 auto;
   margin-top: 20px;
 }
+
+.container {
+  text-align: left;
+  margin-left: 50px;
+}
