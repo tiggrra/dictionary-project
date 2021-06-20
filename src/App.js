@@ -1,5 +1,4 @@
 import React from "react";
-import axios from "axios";
 import Dictionary from "./Dictionary";
 import Footer from "./Footer";
 
