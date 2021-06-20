@@ -1,0 +1,7 @@
+.Dictionary {
+    color: blue;
+}
+
+.Dictionary form ::placeholder {
+    font-style: italic;
+}
