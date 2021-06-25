@@ -8,8 +8,9 @@
     overflow: hidden;
     padding: 6px 4px;
     border: 1px solid #D7B19D;
-    border-radius: 3px;
+    border-radius: 5px;
     color: #402218; 
+    background: #DBCBBD;
 }
 
 .Dictionary input:focus {
