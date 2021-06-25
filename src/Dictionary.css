@@ -2,3 +2,29 @@
     font-style: italic;
     font-size: 11px;
 }
+
+.Dictionary input {
+    width: 100%;
+    overflow: hidden;
+    padding: 6px 4px;
+    border: 1px solid #D7B19D;
+    border-radius: 3px;
+    color: #402218; 
+}
+
+.Dictionary input:focus {
+    outline: none;
+}
+
+.Dictionary section {
+    background-color: #C68B59;
+    margin: 10px 0 10px 0;
+    padding: 10px;
+    border-radius: 6px;
+    box-shadow: 0px 2px 5px rgba(64, 34, 24, 0.5);
+}
+
+.Dictionary p {
+    margin: 0 0 5px 0;
+    font-size: 12px;
+}

@@ -1,0 +1,19 @@
+.Meaning h4 {
+    margin: 0 0 10px 0;
+    font-size: 18px;
+}
+
+.Meaning p {
+    margin: 0 0 5px 0;
+}
+
+.Meaning .definition .explanation {
+    font-size: 12px;
+    text-indent: 20px;
+}
+
+.Meaning .definition .example {
+    font-size: 11px;
+    font-style: italic;
+    text-indent: 20px;
+}

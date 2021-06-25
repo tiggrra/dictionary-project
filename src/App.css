@@ -1,9 +1,15 @@
-.App-header img {
-  max-width: 400px;
-  margin: 20px 0;
+.container {
+  margin: 20px 20px;
+  text-align: left;
+  background-color: #865439;
+  color: #402218;
+  border-radius: 15px;
+  padding: 20px;
 }
 
-.container {
-  text-align: left;
-  margin-left: 50px;
+.container .App-header h1 {
+  margin: 0 0 20px 0;
+  color: #290001;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 24px;
 }

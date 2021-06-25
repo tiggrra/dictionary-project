@@ -1,0 +1,17 @@
+.Phonetics {
+    margin-bottom: 2px;
+}
+.Phonetics .playButton :hover {
+    cursor: pointer;
+}
+
+.Phonetics .playButton svg, path {
+    vertical-align: middle;
+}
+
+.Phonetics .transcription {
+    padding-left: 10px;
+    vertical-align: middle;
+    font-size: 12px;
+    letter-spacing: 1px;
+}
