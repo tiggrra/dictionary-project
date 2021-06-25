@@ -2,7 +2,6 @@ import React from "react";
 import Dictionary from "./Dictionary";
 import Footer from "./Footer";
 
-import logo from './logo.jpg';
 import './App.css';
 
 function App() {
@@ -10,9 +9,9 @@ function App() {
     <div className="App">
       <div className="container">
         <header className="App-header">
-          <img src={logo} alt="logo"></img>
+          <h1>Dictionary</h1>
         </header>
-        <Dictionary />
+        <Dictionary defaultKeyword="hello"/>
         <Footer />
       </div>
     </div>
