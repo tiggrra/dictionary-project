@@ -2,7 +2,8 @@ import React from "react";
 import Dictionary from "./Dictionary";
 import Footer from "./Footer";
 
-import './App.css';
+import "bootstrap/dist/css/bootstrap.min.css";
+import "./App.css";
 
 function App() {
   return (
