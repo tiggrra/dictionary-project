@@ -3,17 +3,19 @@
     font-size: 18px;
 }
 
-.Meaning p {
-    margin: 0 0 5px 0;
+.Meaning .description {
+    margin-top: 15px;
 }
 
 .Meaning .definition .explanation {
-    font-size: 12px;
-    text-indent: 20px;
+    font-size: 13px;
+    padding-left: 20px;
+    margin-bottom: 0;
 }
 
 .Meaning .definition .example {
     font-size: 11px;
+    color: #87A7B3;
     font-style: italic;
-    text-indent: 20px;
+    padding-left: 20px;
 }
